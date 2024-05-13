@@ -1,3 +1,4 @@
+
 let btn = document.getElementById('add-task');
 let firstName = document.getElementById('firstName');
 let lastName = document.getElementById('lastName');
@@ -91,3 +92,5 @@ function enableDisableInputs(value) {
     email.disabled = value;
     typeTrening.disabled = value;
 }
+
+let arr = [1,2,3,4,5];
